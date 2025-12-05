@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Uyen Mai</h2>
 
 <p align="center">
-  M.S. Computer Systems Technology, Business Administration | Business Analytics | Insurance & Retail Background
+  ✨M.S. Computer Systems Technology, Business Administration | Business Analytics | Insurance & Retail Background✨
 </p>
 
 
@@ -43,6 +43,3 @@ Some projects I worked on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="45" />
 </p>
-
-
-<h4 align="center">✨ Always learning. Always building. Always growing. ✨</h4>
