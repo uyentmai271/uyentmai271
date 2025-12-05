@@ -1,17 +1,85 @@
-## Hi there 👋
-👨‍💻 About Me:
+<h2 align="center">Hi there 👋 I'm Uyen Mai</h2>
 
-Hi, I'm Uyen Mai, currently pursuing a Master’s in Computer Systems Technology with Business concentration.
-With over 6 years of professional experience in the non-life insurance sector, I am now transitioning into a Business Analyst role, combining my industry knowledge with advanced data analytics and technical skills.
+<p align="center">
+  Graduate Student • Business & Data Analyst in Training • Builder of Practical Systems & Dashboards  
+</p>
 
-I am passionate about exploring data-driven solutions, improving operational processes, and building innovative systems to support businesses
+---
 
-🛠️ Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="60"/>
-</div>
+### 👩‍💻 About Me  
+I’m currently pursuing a **Master of Science in Computer Systems Technology (Business Administration concentration)** at LSUS.  
+
+With **6+ years of experience in the non-life insurance industry**, I am transitioning into a **Business/Data Analyst** role — combining industry expertise, analytical thinking, and hands-on technical skills.
+
+I enjoy:
+- Building **data-driven applications and dashboards**
+- Turning raw data into **clear insights**
+- Improving processes through **automation & system design**
+- Learning tools that make analysis smarter and work more meaningful  
+
+Recent projects I am proud of include:
+- **Personal Recipe & Nutrition Tracker** (C#/.NET + SQL Server + Dapper)  
+- **LSUS Alumni Data Visualization Dashboard** (Tableau + Python)  
+- **Raspberry Pi Weather Logger** (Python + MariaDB + Chart.js)  
+- **Wine Quality Visualization** (NumPy, Pandas, Matplotlib)  
+- **World Happiness Report Dashboard** (Tableau)
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+  <!-- Python / Data -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" />
+
+  <!-- Databases -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="45" />
+
+  <!-- Programming -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" />
+
+  <!-- Visualization -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="45" />
+
+  <!-- Web / Tools -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="45" />
+</p>
+
+---
+
+### 📌 Pinned Projects  
+Here are some projects I’m actively improving:
+
+- **Event Survey Portal** – PHP  
+- **Student Performance Prediction Model** – Python & Jupyter  
+- **Weather Logger with Raspberry Pi** – JavaScript & MariaDB  
+- **Tracking International Students Application** – SQL  
+- **Wine Quality Visualization** – Python  
+- **YouTube Channel Dataset Analysis** – Python  
+
+---
+
+### 🌟 Current Focus  
+- SQL & database optimization  
+- Data visualization (Tableau, Matplotlib, Seaborn)  
+- Business analytics & systems thinking  
+- C#/.NET applications  
+- Machine learning fundamentals  
+
+---
+
+<h4 align="center">✨ Always learning. Always building. Always growing. ✨</h4>
