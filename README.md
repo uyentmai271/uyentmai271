@@ -4,7 +4,6 @@
   M.S. Computer Systems Technology, Business Administration | Business Analytics | Insurance & Retail Background
 </p>
 
----
 
 ### 👩‍💻 About Me  
 I’m currently pursuing a Master of Science in Computer Systems Technology with a concentration in Business Administration.  
@@ -23,7 +22,6 @@ Some projects I worked on:
 - **Raspberry Pi Weather Logger** (Python + MariaDB + Chart.js)  
 - **Wine Quality Visualization** (NumPy, Pandas, Matplotlib)
 - **Student Performance Prediction Model** (Python & Jupyter) 
----
 
 ### 🛠️ Languages & Tools  
 <p align="left">
@@ -47,6 +45,5 @@ Some projects I worked on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="45" />
 </p>
 
----
 
 <h4 align="center">✨ Always learning. Always building. Always growing. ✨</h4>
