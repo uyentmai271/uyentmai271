@@ -17,11 +17,11 @@ I enjoy:
 - Learning tools that make analysis smarter and work more meaningful  
 
 Some projects I worked on:
-- **Personal Recipe Tracker** (C#/.NET + SQL Server + Dapper)  
-- **LSUS Alumni Data Visualization Dashboard** (Tableau + Python)  
-- **Raspberry Pi Weather Logger** (Python + MariaDB + Chart.js)  
+- **Personal Recipe Tracker** (C#/.NET, SQL Server, Dapper)  
+- **LSUS Alumni Data Visualization Dashboard** (Tableau, Python)  
+- **Raspberry Pi Weather Logger** (Python, MariaDB, Chart.js)  
 - **Wine Quality Visualization** (NumPy, Pandas, Matplotlib)
-- **Student Performance Prediction Model** (Python & Jupyter) 
+- **Student Performance Prediction Model** (Python, Jupyter) 
 
 ### 🛠️ Languages & Tools  
 <p align="left">
