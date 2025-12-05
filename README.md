@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me  
 I’m currently pursuing a Master of Science in Computer Systems Technology with a concentration in Business Administration.  
 
-With 6+ years of experience in the non-life insurance and retail industry, I am transitioning into a **Business/Data Analyst** role — combining industry expertise, analytical thinking, and hands-on technical skills.
+With 6+ years of experience in the non-life insurance and retail industry, I am transitioning into a **Business Analyst** role - combining industry expertise, analytical thinking, and hands-on technical skills.
 
 I enjoy:
 - Building **data-driven applications and dashboards**
