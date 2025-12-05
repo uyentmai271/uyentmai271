@@ -30,12 +30,11 @@ Some projects I worked on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" />
